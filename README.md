@@ -9,6 +9,6 @@ You can view my project here: [Click to View](https://khushibuilds-dev.github.io
 - Structured using **HTML5**
 - Uses **Heading**, **Paragraphs**, and **Lists** (`<ul>`, `<ol>`)
 - High-quality dish image included
-
+- Placeholder image used from freeCodeCamp
 ## 📖 Learning
 I practiced how to organize content on a webpage using only HTML tags.
