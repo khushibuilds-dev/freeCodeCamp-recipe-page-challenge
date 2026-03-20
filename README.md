@@ -6,15 +6,19 @@ Welcome to my repository! Here, I am documenting my progress through the **Respo
 
 Welcome! I am building projects every day to master Web Development.
 
+
 ## 📂 Project Gallery
 
 
-| Date | Project Name | Tech Used | Folder Link |
-| :--- | :--- | :--- | :--- |
-| March 19 | [Recipe Page](./recipe-page/) | HTML5 | [View Code](./recipe-page/) |
-| March 20 | [Remote Work Survey](./survey-form/) | HTML5, Forms | [View Code](./survey-form/) |
-| March 21 | [Hotel Feedback Form](./hotel-feedback/) | HTML5, Fieldsets | [View Code](https://khushibuilds-dev.github.io/fcc-coding-journey/hotel-feedback-form/) |
-| March 21 | [Book Catalog](./book-cat/) | HTML5, Lists | [View Code](https://github.com/khushibuilds-dev/fcc-coding-journey/tree/main) |
+| Project Name | Tech Used | Live Link (View Website) |
+| :--- | :--- | :--- |
+| 🍳 **Recipe Page** | HTML5 | [Live Demo](https://[Aapka-Username].github.io/fcc-coding-journey/recipe-page/) |
+| 📝 **Remote Work Survey** | HTML5, Forms | [Live Demo](https://[Aapka-Username].github.io/fcc-coding-journey/survey-form/) |
+| 🏨 **Hotel Feedback Form** | HTML5, Fieldsets | [Live Demo](https://[Aapka-Username].github.io/fcc-coding-journey/hotel-feedback-form/) |
+| 📚 **Book Catalog** | HTML5, Lists | [Live Demo](https://[Aapka-Username].github.io/fcc-coding-journey/book-cat/) |
+
+---
+*Learning and growing every day!*
 
 
 ## Tech Used:
