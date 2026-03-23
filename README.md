@@ -13,7 +13,7 @@ Each project here marks a milestone in my learning—from understanding my first
     *   **Focus:** Organizing data in a structured way.
     *   **What I Learned:** Creating **HTML Tables** using `<table>`, `<tr>`, and `<td>` to display book titles and details in rows and columns.
 
-*   **🥘 [Recipe Challenge](./recipe-challenge/)**
+*   **🥘 [Recipe Challenge](recipe-page/index.html)**
     *   **Focus:** Presenting content with lists and text.
     *   **What I Learned:** Using ordered and unordered lists (`<ol>`, `<ul>`) to show recipe steps and ingredients clearly.
 ## My project list
