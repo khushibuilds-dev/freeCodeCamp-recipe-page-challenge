@@ -9,7 +9,7 @@ Each project here marks a milestone in my learning—from understanding my first
 *   **Focus:** Building a funcation web structure.
 *   **What I Learned:** How to use elements like `<p>`, `<h1>`, `<h2>`,  and `<h3>`, .
 
-*   **[Hello World Project](hello-world-project/index.html) **
+*   **[Hello World Project](hello-world-project/index.html)**
 *   **Focus:** Buliding web structure.
 *   **Learning goals:** Basic elements.
 
