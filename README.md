@@ -13,6 +13,9 @@ Each project here marks a milestone in my learning—from understanding my first
 *   **Focus:** Buliding web structure.
 *   **Learning goals:** Basic elements.
 
+*   **[CatPhotoApp](cat-photo-app/index.html)**
+*   **Focus:** Feeling awesome after adding my first image using the <img> tag—it makes the whole page look great! 🥳
+
 *   **🏨 [Hotel Feedback Form](hotel-feedback/index.html)**
     *   **Focus:** Building a functional survey form.
     *   **What I Learned:** How to use form elements like `<input>`, `<label>`, and `radio buttons` to collect user data.
