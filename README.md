@@ -30,6 +30,8 @@ Each project here marks a milestone in my learning—from understanding my first
 *   **🥘 [Recipe Challenge](recipe-page/index.html)**
     *   **Focus:** Presenting content with lists and text.
     *   **What I Learned:** Using ordered and unordered lists (`<ol>`, `<ul>`) to show recipe steps and ingredients clearly.
+    *   **[HTML Music Player](https://github.com/khushibuilds-dev/fcc-coding-journey/tree/main/html-music-player)**
+    *    *Focus* using `audio` element with the attribute `loop`, `controls`.
 ## My project list
 [click here to see](https://khushibuilds-dev.github.io/fcc-coding-journey/)
 ---
