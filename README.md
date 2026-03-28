@@ -37,10 +37,13 @@ Each project below marks a specific step in my learning curve:
 *   **Focus:** Multimedia integration.
 *   **What I Learned:** Using the `<audio>` element with `loop` and `controls` attributes.
 
-### 🚀 Latest Project Added:
+### 🌐 Multimedia & Advanced Structures
 - **Project: List of Web Browsers** - Learned to use Semantic Description Lists (`<dl>`, `<dt>`, `<dd>`) to present browser history and features in a structured way.
 - **Project: Video Display Iframe** - Learned how to embed YouTube videos using the `<iframe>` element.
 
+
+### 🚀 Latest Project Added:
+- **Project: Quincy’s Job Tips** — Focused on using advanced Semantic HTML5 elements like `<main>`, `<section>`, and professional text formatting with `<blockquote cite>`, `<q>`, and `<cite>`.
 
 ---
 
