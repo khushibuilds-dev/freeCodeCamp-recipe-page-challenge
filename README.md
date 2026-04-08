@@ -6,60 +6,46 @@ I am currently teaching myself web development through **freeCodeCamp**, documen
 
 ---
 
+## 📌 Current Milestone: Mastering CSS Fundamentals 🎨
+> **Status:** Learning Selectors, Box Model, and Flexbox!
 
-## 📌 Current Milestone: Mastering HTML5 Structure ✍️
-> **Next Step:** Starting CSS for Styling! 🎨
-
-🔗 **Live Preview:** [Explore My Projects Here](https://khushibuilds-dev.github.io/fcc-coding-journey/)
+🔗 **Live Preview:** [Explore My Projects Here](https://github.io)
 
 ---
 
 ## 🛠️ Projects & Learning Milestones
 
-Each project below marks a specific step in my learning curve:
+### 🎨 CSS Styling Projects (New!)
+*   **Stylized Todo List:** Converting a basic list into a modern, clean task manager using CSS colors, fonts, and spacing.
+*   **Professional Business Card:** My first step into layout design. Used the CSS Box Model (Padding, Margin, Borders) to create a sleek digital card.
 
-### 📑 Basic Web Structure
-*   **Hello World & CatPhotoApp:** My first step! Learned to use `<h1>`, `<p>`, and the `<img>` tag to make pages visual. 🐱
-*   **Book Store:** Practiced using `<button>` elements for user interaction.
+### 📑 Basic Web Structure (HTML)
+*   **Hello World & CatPhotoApp:** My first step! Learned to use `<h1>`, `<p>`, and the `<img>` tag. 🐱
+*   **Hotel Feedback Form:** Focused on collecting user data using `<input>`, `<label>`, and radio buttons.
+*   **Book Catalog & Recipe Challenge:** Practiced organizing data with HTML Tables and Lists (`<ul>`, `<ol>`).
+*   **HTML Music Player:** Multimedia integration using the `<audio>` element.
 
-### 🏨 Hotel Feedback Form
-*   **Focus:** Building a functional survey form.
-*   **What I Learned:** Collecting user data using `<input>`, `<label>`, and `radio buttons`.
+### 🌐 Advanced HTML Structures
+- **List of Web Browsers:** Used Semantic Description Lists (`<dl>`, `<dt>`, `<dd>`).
+- **Video Display Iframe:** Learned how to embed YouTube videos.
+- **Quincy’s Job Tips:** Focused on advanced semantic elements like `<blockquote>` and `<cite>`.
+- **Cat Blog:** Built a full semantic layout using `<header>`, `<nav>`, `<main>`, and `<footer>`.
 
-### 📚 Book Catalog
-*   **Focus:** Organizing data in a structured way.
-*   **What I Learned:** Creating HTML Tables using `<table>`, `<tr>`, and `<td>` for clean data display.
-
-### 🥘 Recipe Challenge
-*   **Focus:** Presenting content with lists.
-*   **What I Learned:** Using ordered (`<ol>`) and unordered (`<ul>`) lists for steps and ingredients.
-
-### 🎵 HTML Music Player
-*   **Focus:** Multimedia integration.
-*   **What I Learned:** Using the `<audio>` element with `loop` and `controls` attributes.
-
-### 🌐 Multimedia & Advanced Structures
-- **Project: List of Web Browsers** - Learned to use Semantic Description Lists (`<dl>`, `<dt>`, `<dd>`) to present browser history and features in a structured way.
-- **Project: Video Display Iframe** - Learned how to embed YouTube videos using the `<iframe>` element.
-
-
-### 🚀 Latest Project Added:
-- **Project: Quincy’s Job Tips** — Focused on using advanced Semantic HTML5 elements like `<main>`, `<section>`, and professional text formatting with `<blockquote cite>`, `<q>`, and `<cite>`.
-**Project: Build a Cat blog** -Built a semantic layout using `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>` with contact details managed by the `<address>` element
 ---
 
 ## 🧠 Skills I'm Building
 - [x] Semantic HTML5 Tags
-- [x] Form Validations & Inputs
-- [x] HTML Tables & Lists
-- [x] Multimedia Integration (Audio/Images)
-- [ ] CSS Fundamentals (Loading...)
+- [x] Form Validations & Multimedia
+- [x] CSS Box Model (Margin, Padding, Border)
+- [x] CSS Selectors & Colors
+- [ ] Flexbox & Grid (Coming Soon...)
+- [ ] Responsive Design (Coming Soon...)
 
 ---
 
 ## 🤝 Connect with Me
 - **GitHub:** [@khushibuilds-dev](https://github.com)
-- **Learning Platform:** [freeCodeCamp](https://www.freecodecamp.org)
+- **Learning Platform:** [freeCodeCamp](https://freecodecamp.org)
 
 ---
 *“The expert in anything was once a beginner.”* – Let's build the web! 🚀
