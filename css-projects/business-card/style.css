@@ -1,0 +1,9 @@
+body{
+    color: rosybrown;
+    font: Arial, sans-serif;
+}
+.business-card{
+    width: 300px;
+    background-color:aquamarine;
+    padding: 20px;
+}
