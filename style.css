@@ -68,3 +68,7 @@ a {
     font-size: 0.9rem;
     margin-top: 10px;
 }
+a:hover {
+    text-decoration: underline;
+    color: #2c3e50;
+}
