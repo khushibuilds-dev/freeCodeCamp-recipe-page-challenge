@@ -9,6 +9,17 @@ body {
     background-color: #f4f7f6;
     color: #333;
     line-height: 1.6;
+    border-radius: 20px;
+        padding: 20px;
+        max-width: 1200px;
+        margin: 20px auto;
+        border-left: 10px solid #007bff;
+         border-right: 10px solid #007bff;
+}
+
+body:hover {
+    background-color: #e0e0e0;
+    transition: background-color 0.3s ease;
 }
 header{
     background-color: #007bff;
