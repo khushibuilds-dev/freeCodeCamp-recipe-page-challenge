@@ -21,3 +21,13 @@ header{
      margin-top: 30px;
      border-radius: 10px;
       border-left: 8px solid #28a745;}
+ .level-title{
+        color: #2c3e50;
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+ }     
+ .level-intro{
+     font-weight: bold;
+    color: #4ca1af;
+    margin-bottom: 10px;
+ }
