@@ -13,8 +13,8 @@ body {
         padding: 20px;
         max-width: 1200px;
         margin: 20px auto;
-        border-left: 10px solid #007bff;
-         border-right: 10px solid #007bff;
+        border-left: 10px pink solid;
+         border-right: 10px pink solid;
 }
 
 body:hover {
@@ -28,6 +28,11 @@ header{
     border-radius: 10px;
     border-bottom: 5px solid  #007bff;
     margin-bottom: 30px;
+}
+
+header:hover {
+    background-color: pink;
+    transition: background-color 0.3s ease;
 }
 .level-1, .level-2, .level-3, .level-4{
      background-color: #e9ecef;
