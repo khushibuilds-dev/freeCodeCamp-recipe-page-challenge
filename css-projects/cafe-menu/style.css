@@ -48,3 +48,7 @@ h1, h2 {
 .established {
   font-style: italic;
 }
+.bottom-line {
+  margin-top: 25px;
+}
+
