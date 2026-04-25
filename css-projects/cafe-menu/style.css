@@ -65,4 +65,6 @@ footer {
 address {
   font-style: normal;
 }
-
+.address {
+  margin-bottom: 5px;
+}
