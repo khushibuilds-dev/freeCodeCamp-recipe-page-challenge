@@ -29,7 +29,7 @@ header{
 }
 
 header:hover {
-    background-color: pink;
+    background-color: #fafafa;
     transition: background-color 0.3s ease;
 }
 .level-1, .level-2, .level-3, .level-4{
