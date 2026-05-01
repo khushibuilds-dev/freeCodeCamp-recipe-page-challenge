@@ -5,7 +5,7 @@ body{
     min-height: calc(100vh - 100px);
 }
 hr{
-    width: 80%;
+    width: 2%;
     border: 1px solid #333;
 }
 section{
